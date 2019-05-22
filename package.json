@@ -1,0 +1,30 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "REST Mongodb Express Angular Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "REST_MEAN"
+  },
+  "keywords": [
+    "REST",
+    "Mongodb",
+    "Express",
+    "Angular",
+    "Node"
+  ],
+  "author": "afisameh07",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
